@@ -1,0 +1,40 @@
+body{
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 6px;
+
+}
+.container{
+   margin-top: 80px;
+   text-align: center;
+}
+a{
+    align-items: center;
+}
+p{
+    text-align: center;
+    padding: 40px;
+}
+.timedExam{
+    float: right;
+    margin-right: 40px;
+    padding-bottom:80px;
+}
+.flex-column {
+    display: flex;
+    flex-direction: column;
+
+}
+.flex-center {
+    justify-content: center;
+    align-items: center;
+
+}
+h2 {
+    font-size: 16p;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+.hidden{
+    display: none;
+}
